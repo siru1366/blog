@@ -1,26 +1,16 @@
 ---
-title: "My First post"
-author: "Matt Crump"
-date: "2022-10-21"
-categories: [goals,general]
+title: "bio"
+author: "Sirui Tan"
+date: "2024-3-1"
+categories: [bio,general]
 ---
 
-This is an example first post. Whatever you write here will appear inside your post.
+# Biography: Sirui Tan
 
-It is possible to write lists:
+Hello! My name is Sirui Tan, and I'm currently in my third year pursuing a Bachelor's degree in Mathematics at the prestigious University of Toronto. With a deep-rooted passion for numbers and problem-solving, my academic journey has been an exhilarating exploration of mathematical concepts and theories.
 
-1.  One
-2.  Two
-3.  Three
+From calculus to abstract algebra, each course has fueled my curiosity and expanded my understanding of the intricate patterns that govern our world. I thrive on challenges and am constantly seeking new ways to apply mathematical principles to real-world problems.
 
-And make headers
+Outside the classroom, I actively engage in mathematical research projects and extracurricular activities, immersing myself in discussions with fellow enthusiasts and experts alike. I firmly believe that collaboration and shared knowledge are essential in advancing the field of mathematics.
 
-## This is a second level heading
-
-You can include images, and many other kinds of content.
-
-If you are using the visual editor in Rstudio you can drag images onto the editor to insert them into the document. Otherwise, you need to place the image inside of the folder for this post, and then you can insert it to your post directly, like this:
-
-![](thumbnail.jpg)
-
-The first image in a blog post will also be used on the listings page.
+Beyond academics, I enjoy exploring the vibrant cultural scene of Toronto, finding inspiration in its diverse communities and enriching my perspective on life. Whether it's attending lectures, participating in math competitions, or simply delving into a challenging theorem, I am committed to nurturing my passion for mathematics and making meaningful contributions to the field. ![](thumbnail.jpg)
