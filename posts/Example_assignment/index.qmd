@@ -1,16 +1,23 @@
 ---
-title: "Example assignment"
-author: "Matt Crump"
-date: "2022-10-21"
-categories: [goals,general]
+title: "CV"
+author: "Sirui Tan "
+date: "2024-3-1"
+categories: [CV,general]
 ---
 
-### Introspect on your own mental imagery
+# Curriculum Vitae
 
-This assignment engages you in the process of introspection. Your task is to use introspection to evaluate and describe your own mental imagery abilities. Attempt to answer the following kinds of questions. What is your mental imagery like? Do you have mental imagery for different kinds of senses? Is your mental imagery vivid and life-like or very different from normal perception? How would you describe your mental imagery?
+**Personal Information:** - **Name:** Sirui Tan
 
-You should write a **minimum of 250 words**, but feel free to write more. Submit your document on blackboard by the due date.
+**Contact Information:**\
+sirui.tan\@mail.utoronto.ca
 
-## My mental imagery
+**Education:** - **Bachelor of Science in Mathematics** - *University of Toronto* - Expected Graduation: May 2024
 
-My mental imagery is like...
+**Experience:** - **Intern, Internet Company** - *Summer 2022* - Responsibilities: - Assisted in processing e-commerce data. - Collaborated with team members to develop strategies for data analysis and interpretation. - Contributed to improving data management processes. - Participated in team meetings and discussions to brainstorm innovative solutions. - Gained practical experience in applying mathematical concepts to real-world scenarios.
+
+**Skills:** - Proficient in mathematical analysis, including calculus, algebra, and statistics. - Strong problem-solving abilities. - Familiarity with data analysis and interpretation techniques. - Excellent communication and collaboration skills. - Proficient in relevant software tools and programming languages (if applicable).
+
+**Extracurricular Activities:** - *List any relevant extracurricular activities or achievements here, such as participation in math clubs, competitions, or relevant projects.*
+
+**References:** - *Available upon request.*
